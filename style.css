@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(53, 53, 53);
+}
+.clock {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.button {
+  border-radius: 5px;
+  padding: 8px;
+}
+.btn-blue {
+  border-color: rgb(13, 126, 255);
+}
+.btn-yellow {
+  border-color: rgb(251, 255, 17);
+}
+.btn-red {
+  border-color: rgb(252, 16, 16);
+}
