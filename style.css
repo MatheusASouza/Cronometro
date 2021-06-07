@@ -3,6 +3,8 @@ body {
 }
 .clock {
   position: absolute;
+  font-size: 20px;
+  color: aliceblue;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -12,11 +14,14 @@ body {
   padding: 8px;
 }
 .btn-blue {
-  border-color: rgb(13, 126, 255);
+  background-color: rgb(13, 126, 255);
+  font-size: 20px;
 }
 .btn-yellow {
-  border-color: rgb(251, 255, 17);
+  background-color: rgb(251, 255, 17);
+  font-size: 20px;
 }
 .btn-red {
-  border-color: rgb(252, 16, 16);
+  background-color: rgb(252, 16, 16);
+  font-size: 20px;
 }
